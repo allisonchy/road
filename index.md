@@ -1,27 +1,11 @@
-## Niagara
+# Niagara
+_Road trip_ for **us**
 
-Road trip for us
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+*where the rainbow begins
+![Image](https://github.com/allisonchy/road/blob/master/DSC04772.jpg)
+![Image](https://github.com/allisonchy/road/blob/master/DSC04779.jpg)
+*us
+![Image](https://github.com/allisonchy/road/blob/master/IMG_0703.JPG)v
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
